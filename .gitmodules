@@ -1,0 +1,3 @@
+[submodule "vendor/submodules/autopair"]
+	path = vendor/submodules/autopair
+	url = https://github.com/capitaomorte/autopair.git
