@@ -15,4 +15,4 @@
     "Vagrantfile\\'"
     "\\.jbuilder\\'"))
 
-(mapcar 'add-to-ruby-mode ruby-mode-files)
+(mapc 'add-to-ruby-mode ruby-mode-files)
