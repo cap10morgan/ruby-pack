@@ -33,8 +33,8 @@ recursively:
 
     git clone git@github.com:cap10morgan/ruby-pack.git --recursive
 
-Once that's done, you should be able to add edit your emacs-live
-configuration to include this as a user-pack by editing ~/.emacs-live.el
+Once that's done, add ruby-pack to your emacs-live configuration by adding
+this line to your ~/.emacs-live.el file:
 
     (live-add-pack '("/path/to/ruby-pack"))
 
