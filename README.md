@@ -8,6 +8,23 @@ ruby-pack adds the following features in ruby-mode:
 
 * adds 'end' automatically using the ruby-end package
 * closes parens, quotes, etc. using the autopair package
+* adds additional file types to ruby-mode (see File types below for details)
+
+### File types
+
+> These file types will automatically trigger ruby-mode.
+
+* *.rake
+* Rakefile
+* *.gemspec
+* *.ru
+* Gemfile
+* Guardfile
+* Capfile
+* *.thor
+* Thorfile
+* Vagrantfile
+* *.jbuilder
 
 ### Usage
 
