@@ -3,6 +3,6 @@
 
 (package "ruby-pack" "0.1.0" "Emacs Live Pack for better Ruby support.")
 
-(depends-on "autopair")
+(depends-on "autopair" "0")
 (depends-on "ruby-end" "0.2.2")
-(depends-on "ruby-tools")
+(depends-on "ruby-tools" "0")
