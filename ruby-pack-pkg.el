@@ -1,2 +1,3 @@
-(define-package "ruby-pack" "0.0.1"
-                "Enhanced support for the Ruby language in Emacs Live")
+(define-package "ruby-pack" "0.1.0"
+  "Emacs Live Pack for better Ruby support."
+  '((autopair "") (ruby-end "0.2.2") (ruby-tools "")))
