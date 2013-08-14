@@ -2,10 +2,6 @@
     * Upgrade instructions:
         * `cd ~/.live-packs/ruby-pack`
         * `git pull`
-        * `git submodule init`
-        * `git submodule update`
-        * `cd vendor/submodules/rinari`
-        * `git submodule init`
-        * `git submodule update`
+        * `git submodule update --init --recursive`
         * (Re-)Launch Emacs Live
 * 1.0.0 - initial release
