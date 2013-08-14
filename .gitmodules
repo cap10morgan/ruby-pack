@@ -7,6 +7,15 @@
 [submodule "vendor/submodules/rinari"]
 	path = vendor/submodules/rinari
 	url = https://github.com/eschulte/rinari.git
+[submodule "vendor/submodules/rinari/util/jump"]
+        path = vendor/submodules/rinari/util/jump
+        url = https://github.com/eschulte/jump.el.git
+[submodule "vendor/submodules/rinari/util/test/ert"]
+        path = vendor/submodules/rinari/util/test/ert
+        url = https://github.com/nex3/ert.git
+[submodule "vendor/submodules/rinari/util/inf-ruby"]
+        path = vendor/submodules/rinari/util/inf-ruby
+        url = https://github.com/nonsequitur/inf-ruby.git
 [submodule "vendor/submodules/cucumber.el"]
 	path = vendor/submodules/cucumber.el
 	url = https://github.com/michaelklishin/cucumber.el.git
