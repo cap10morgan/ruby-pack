@@ -10,6 +10,8 @@ ruby-pack adds the following features in ruby-mode:
 * closes parens, quotes, etc. using the autopair package
 * adds additional file types to ruby-mode (see "File types" below for details)
 
+It also adds cucumber.el, rinari, rspec-mode, and web-mode.
+
 ### File types
 
 > These file types will automatically trigger ruby-mode.
