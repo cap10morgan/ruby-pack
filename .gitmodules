@@ -4,3 +4,24 @@
 [submodule "vendor/submodules/ruby-end"]
 	path = vendor/submodules/ruby-end
 	url = https://github.com/rejeep/ruby-end.git
+[submodule "vendor/submodules/rinari"]
+	path = vendor/submodules/rinari
+	url = https://github.com/eschulte/rinari.git
+[submodule "vendor/submodules/rinari/util/jump"]
+        path = vendor/submodules/rinari/util/jump
+        url = https://github.com/eschulte/jump.el.git
+[submodule "vendor/submodules/rinari/util/test/ert"]
+        path = vendor/submodules/rinari/util/test/ert
+        url = https://github.com/nex3/ert.git
+[submodule "vendor/submodules/rinari/util/inf-ruby"]
+        path = vendor/submodules/rinari/util/inf-ruby
+        url = https://github.com/nonsequitur/inf-ruby.git
+[submodule "vendor/submodules/cucumber.el"]
+	path = vendor/submodules/cucumber.el
+	url = https://github.com/michaelklishin/cucumber.el.git
+[submodule "vendor/submodules/rspec-mode"]
+	path = vendor/submodules/rspec-mode
+	url = https://github.com/pezra/rspec-mode.git
+[submodule "vendor/submodules/web-mode"]
+	path = vendor/submodules/web-mode
+	url = https://github.com/fxbois/web-mode.git
