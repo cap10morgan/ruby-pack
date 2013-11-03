@@ -1,4 +1,4 @@
-## Upgrade instructions:
+## Upgrade instructions
 1. `cd ~/.live-packs/ruby-pack`
 1. `git pull`
 1. `git submodule update --init --recursive`
