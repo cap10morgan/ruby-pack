@@ -8,5 +8,5 @@
 * 1.2.2 - added web-mode-hook to disable whitespace-mode since they're incompatible with each other (https://github.com/fxbois/web-mode/issues/18)
 * 1.2.1 - updated all upstream packages to latest releases
 * 1.2.0 - updated web-mode to v7
-* 1.1.0 - added cucumber.el, rinari, rspec-mode, & web-mode (thanks Dave Maldonado)
+* 1.1.0 - added cucumber.el, rinari, rspec-mode, & web-mode (thanks @dave-maldonado)
 * 1.0.0 - initial release
