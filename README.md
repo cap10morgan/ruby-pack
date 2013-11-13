@@ -10,8 +10,6 @@ ruby-pack adds the following features in ruby-mode:
 * closes parens, quotes, etc. using the autopair package
 * adds additional file types to ruby-mode (see "File types" below for details)
 
-It also adds cucumber.el, rinari, rspec-mode, and web-mode.
-
 ### File types
 
 > These file types will automatically trigger ruby-mode.
@@ -33,7 +31,7 @@ It also adds cucumber.el, rinari, rspec-mode, and web-mode.
 This pack uses git submodules, so remember to clone the repository
 recursively:
 
-    git clone git@github.com:cap10morgan/ruby-pack.git --recursive
+    git clone https://github.com/cap10morgan/ruby-pack.git --recursive
 
 Once that's done, add ruby-pack to your emacs-live configuration by adding
 this line to your ~/.emacs-live.el file:
